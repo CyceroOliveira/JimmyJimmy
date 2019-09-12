@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "004_pennywise",
+    "texture": "b06190b7-6226-4dfc-9bdf-ce627bf9d0ff",
+    "atlas": "",
+    "rect": [
+      0,
+      18,
+      78,
+      91
+    ],
+    "offset": [
+      0,
+      -9
+    ],
+    "originalSize": [
+      78,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

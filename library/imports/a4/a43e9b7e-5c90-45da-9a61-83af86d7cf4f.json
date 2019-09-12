@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "001_MonsterNess_floor",
+    "texture": "39359d9f-fc80-4d3f-bfb0-cae4b4a5ef8d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      258,
+      257
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      258,
+      257
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
