@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.0",
+  "uuid": "23773959-9fbb-403f-85c6-14a344cffd5f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "001_MonsterNess_Item": {
+      "ver": "1.0.3",
+      "uuid": "07f7196a-c3d9-401e-a3ad-864cb36f16af",
+      "rawTextureUuid": "23773959-9fbb-403f-85c6-14a344cffd5f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 4,
+      "width": 65,
+      "height": 58,
+      "rawWidth": 66,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
